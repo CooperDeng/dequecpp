@@ -1,0 +1,26 @@
+m 5
+push_back "youtube" "youtube.com"
+front
+back
+push_front "rats" "www.rats.ca"
+push_back "3123" "www.3123.cn"
+push_front "bilibili" "bilibili.com"
+size
+print
+find "bilibili"
+pop_front
+print
+pop_back
+find "bilibili"
+print
+size
+empty
+clear
+pop_front
+pop_back
+empty
+find "bilibili"
+front
+back
+print
+exit

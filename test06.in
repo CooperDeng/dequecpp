@@ -1,0 +1,37 @@
+m 4
+push_front "1" "1.1"
+push_back "2" "2.2"
+push_front "3" "3.3"
+push_back "4" "4.4"
+print
+pop_front
+print
+push_front "3" "3.3"
+print
+pop_back
+print
+pop_front
+print
+pop_back
+print
+pop_front
+print
+size
+push_front "1" "1.1"
+push_back "2" "2.2"
+push_front "3" "3.3"
+push_back "4" "4.4"
+print
+clear
+empty
+size
+push_front "1" "1.1"
+size
+empty
+push_back "2" "2.2"
+push_front "3" "3.3"
+size
+push_back "4" "4.4"
+size
+print
+exit
